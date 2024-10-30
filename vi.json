@@ -1,5 +1,5 @@
 {
-	"green_vi": [
+	"green": [
 		"bbc.com",
 		"voanews.com",
 		"voatiengviet.com",
@@ -50,7 +50,7 @@
 		"vtcnews.vn",
 		"vtv.vn"
 	],
-	"yellow_vi": [
+	"yellow": [
 		"cri.cn",
 		"2sao.vn",
 		"baodatviet.vn",
@@ -69,7 +69,7 @@
 		"zingnews.vn",
 		"znews.vn"
 	],
-	"red_vi": [
+	"red": [
 		"baomoi.com",
 		"nghiencuulichsu.com",
 		"vietcetera.com",
